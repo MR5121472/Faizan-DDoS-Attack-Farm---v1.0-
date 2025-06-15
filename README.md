@@ -17,4 +17,4 @@ Made with 💻 by **Faizan™ Mughal**
 ```bash
 git clone https://github.com/MR5121472/Faizan-DDoS-Attack-Farm---v1.0-.git
 cd Faizan-DDoS-Attack-Farm---v1.0-
-pip install -r requirements.txt
+pip install requests pysocks
