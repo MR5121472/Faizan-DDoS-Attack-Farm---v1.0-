@@ -12,3 +12,9 @@ An advanced, ethical, and educational project for simulating DDoS attacks with m
 ⚠️ **For educational use only. Do not use this project for illegal activity.**
 
 Made with 💻 by **Faizan™ Mughal**
+## 🛠 Installation (Termux, Linux, Windows)
+
+```bash
+git clone https://github.com/yourname/faizan-ddos-farm.git
+cd faizan-ddos-farm
+pip install -r requirements.txt
