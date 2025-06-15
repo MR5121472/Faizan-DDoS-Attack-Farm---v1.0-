@@ -15,6 +15,6 @@ Made with 💻 by **Faizan™ Mughal**
 ## 🛠 Installation (Termux, Linux, Windows)
 
 ```bash
-git clone https://github.com/yourname/faizan-ddos-farm.git
+git clone https://github.com/MR5121472/Faizan-DDoS-Attack-Farm---v1.0-.git
 cd faizan-ddos-farm
 pip install -r requirements.txt
